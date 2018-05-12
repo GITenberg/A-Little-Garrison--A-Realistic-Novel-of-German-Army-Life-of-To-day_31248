@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35094
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Oswald_Bilse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31248#A-Little-Garrison--A-Realistic-Novel-of-German-Army-Life-of-To-day
 gutenberg_issued: '2010-02-10'
 gutenberg_type: Text
 identifiers:
