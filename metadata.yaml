@@ -1,0 +1,39 @@
+_repo: A-Little-Garrison--A-Realistic-Novel-of-German-Army-Life-of-To-day_31248
+_version: 0.1.0
+alternative_title: Aus einer kleinen Garnison. English
+contributor:
+  translator:
+    agent_name: Schierbrand, Wolf von
+    alias: Von Schierbrand, Wolf
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '35095'
+    url: http://www.gutenberg.org/2009/agents/35095
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bilse, Fritz Oswald
+    alias: Kyrburg, Fritz von der
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '35094'
+    url: http://www.gutenberg.org/2009/agents/35094
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Oswald_Bilse
+description: ''
+gutenberg_issued: '2010-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31248'
+  lccn: '04002324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Germany. Heer -- Military life -- Fiction'
+title: 'A Little Garrison: A Realistic Novel of German Army Life of To-day'
+url: http://www.gutenberg.org/ebooks/31248
